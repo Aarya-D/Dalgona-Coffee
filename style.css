@@ -1,0 +1,14 @@
+body {
+    font-family: sans-serif;
+    background: peachpuff;
+}
+h2 {
+    color: brown;
+    text-decoration:underline ;
+}
+
+button {
+    background-color: rgb(255, 119, 0);
+    color: white;
+    font-size: 120%;
+}
